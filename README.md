@@ -9,38 +9,40 @@ I'm excited to share my latest data analysis project where I analyzed data relat
 •	The result of grouping and analyzing the data based on natural and sudden deaths shows Natural Deaths are 94.65% whereas sudden deaths are 5.35% of total deaths. Natural deaths increasing every year and there is a decline in the sudden death rate by 25.7%.  
 •	Grouping is based on natural deaths (typically due to disease processes) and sudden deaths (often due to acute conditions, injuries, or external factors), and classified them as follows:
 o	Natural Death (Typically Due to Disease Processes):
-	Cardiovascular diseases
-	Neoplasms (cancers)
-	Chronic respiratory diseases
-	Diabetes mellitus
-	Alzheimer's disease and other dementias
-	Chronic kidney disease
-	Parkinson's disease
-	Cirrhosis and other chronic liver diseases
-	Alcohol use disorders
-	Drug use disorders
-	Tuberculosis
-	HIV/AIDS
-	Malaria
-	Lower respiratory infections
-	Meningitis
-	Acute hepatitis
-	Nutritional deficiencies
-	Protein-energy malnutrition
-	Maternal disorders
-	Neonatal disorders
-	Digestive diseases
-	Diarrheal diseases
+  1.	Cardiovascular diseases
+  2.	Neoplasms (cancers)
+  3.	Chronic respiratory diseases
+  4.	Diabetes mellitus
+  5.	Alzheimer's disease and other dementias
+  6.	Chronic kidney disease
+  7.	Parkinson's disease
+  8.	Cirrhosis and other chronic liver diseases
+  9.	Alcohol use disorders
+  10.	Drug use disorders
+  11.	Tuberculosis
+  12.	HIV/AIDS
+  13.	Malaria
+  14.	Lower respiratory infections
+  15.	Meningitis
+  16.	Acute hepatitis
+  17.	Nutritional deficiencies
+  18.	Protein-energy malnutrition
+  19.	Maternal disorders
+  20.	Neonatal disorders
+  21.	Digestive diseases
+  22.	Diarrheal diseases
+
 o	Sudden Death (Often Due to Acute Conditions, Injuries, or External Factors)
-	Road injuries
-	Self-harm
-	Interpersonal violence
-	Drowning
-	Poisonings
-	Fire, heat, and hot substances
-	Conflict and terrorism
-	Environmental heat and cold exposure
-	Exposure to forces of nature
+  1.	Road injuries
+  2.	Self-harm
+  3.	Interpersonal violence
+  4.	Drowning
+  5.	Poisonings
+  6.	Fire, heat, and hot substances
+  7.	Conflict and terrorism
+  8.	Environmental heat and cold exposure
+  9.	Exposure to forces of nature
+
 •	Compared to other countries Germany’s total number of deaths reduced in the 2000-2010 period. The reasons could be: 
 o	 Public Health Policies: Effective public health policies and initiatives, including vaccination programs, health education, and preventive measures, helped reduce the incidence of diseases and improve overall public health.
 o	 Aging Population Structure: While Germany has an ageing population, the age structure during this period might have been such that the largest cohorts had not yet reached the ages with the highest mortality rates. This demographic shift could temporarily reduce the number of deaths.
